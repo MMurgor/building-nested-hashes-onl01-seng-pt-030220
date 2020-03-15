@@ -1,13 +1,4 @@
-
-
-
-
-
- end 		end
- 22  lib/third_challenge.rb 
-
- @@ -2,29 +2,37 @@ def third_challenge
-  epic_tragedy = {		  epic_tragedy = {
+epic_tragedy = {
    :montague => {		   :montague => {
       :patriarch => {		      :patriarch => {
         #your key/value pairs here		        :name => "Lord Montague",
@@ -46,3 +37,9 @@
 
 
  end 		end
+ 4  spec/bonus_spec.rb 
+
+
+
+
+ 
